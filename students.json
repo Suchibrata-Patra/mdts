@@ -1,0 +1,769 @@
+[
+  {
+    "id": 1,
+    "name": "Albert Einstein",
+    "bio": "Theoretical physicist who developed the theory of relativity and reshaped modern physics.",
+    "contact": {
+      "email": "albert.einstein@researchmail.com",
+      "mobile_no": "9991110001"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Physics",
+        "cgpa": 9.4
+      },
+      "postgraduate": {
+        "bsc_degree": "Advanced Physics Research",
+        "cgpa": 9.6
+      },
+      "doctorate": "PhD in Physics"
+    },
+    "skillsets": ["Relativity", "Quantum Theory", "Statistical Physics"],
+    "awards": ["Nobel Prize in Physics", "Max Planck Medal"],
+    "licenses_and_certifications": ["Scientific Patents"],
+    "experience": [
+      "Patent Examiner, Swiss Patent Office",
+      "Professor, ETH Zurich",
+      "Research Scientist, Institute for Advanced Study, Princeton"
+    ],
+    "publications": [
+      {
+        "title": "On the Electrodynamics of Moving Bodies",
+        "url": "https://einsteinpapers.press.princeton.edu/vol2-doc/154"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+      "resume_link":"https://apple.com/resume.pdf"
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "Marie Curie",
+    "bio": "Chemist and physicist pioneering research on radioactivity.",
+    "contact": {
+      "email": "marie.curie@researchmail.com",
+      "mobile_no": "9991110002"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Physics, University of Paris",
+        "cgpa": 9.7
+      },
+      "postgraduate": {
+        "bsc_degree": "Mathematics, University of Paris",
+        "cgpa": 9.8
+      },
+      "doctorate": "PhD in Physics"
+    },
+    "skillsets": ["Radioactivity", "Chemistry", "Nuclear Science"],
+    "awards": ["Nobel Prize in Physics", "Nobel Prize in Chemistry"],
+    "licenses_and_certifications": ["Radiation Research Certification"],
+    "experience": [
+      "Researcher, University of Paris",
+      "Founder, Curie Institute"
+    ],
+    "publications": [
+      {
+        "title": "Radioactive Substances",
+        "url": "https://archive.org/details/radioactivesubst00curi"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Marie_Curie_c1920.jpg"
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Isaac Newton",
+    "bio": "Foundational physicist and mathematician who developed classical mechanics.",
+    "contact": {
+      "email": "isaac.newton@researchmail.com",
+      "mobile_no": "9991110003"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BA in Mathematics, Trinity College Cambridge",
+        "cgpa": 9.6
+      },
+      "postgraduate": {
+        "bsc_degree": "MA in Mathematics",
+        "cgpa": 9.7
+      },
+      "doctorate": "Doctor of Mathematics"
+    },
+    "skillsets": ["Classical Mechanics", "Optics", "Calculus"],
+    "awards": ["Royal Society Copley Medal"],
+    "licenses_and_certifications": ["Fellow of the Royal Society"],
+    "experience": [
+      "Professor, University of Cambridge",
+      "President, Royal Society"
+    ],
+    "publications": [
+      {
+        "title": "Principia Mathematica",
+        "url": "https://archive.org/details/newtonspmathema00newtrich"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sir_Isaac_Newton_%28white_background%29.jpg"
+    }
+  },
+
+  {
+    "id": 4,
+    "name": "Nikola Tesla",
+    "bio": "Electrical engineer and inventor known for AC power systems.",
+    "contact": {
+      "email": "nikola.tesla@researchmail.com",
+      "mobile_no": "9991110004"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Electrical Engineering, Graz University",
+        "cgpa": 8.8
+      },
+      "postgraduate": {
+        "bsc_degree": "Independent Physics Research",
+        "cgpa": 9.0
+      },
+      "doctorate": "Honorary Doctorates"
+    },
+    "skillsets": ["Electrical Engineering", "Electromagnetism", "Wireless Power"],
+    "awards": ["Edison Medal"],
+    "licenses_and_certifications": ["Numerous Patents"],
+    "experience": [
+      "Engineer, Budapest Telephone Exchange",
+      "Inventor, Tesla Laboratory",
+      "Consultant, Westinghouse Electric"
+    ],
+    "publications": [
+      {
+        "title": "Experiments with Alternate Currents",
+        "url": "https://www.tfcbooks.com/tesla/1892-02-03.htm"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG"
+    }
+  },
+
+  {
+    "id": 5,
+    "name": "Stephen Hawking",
+    "bio": "Theoretical physicist known for black hole radiation and cosmology.",
+    "contact": {
+      "email": "stephen.hawking@researchmail.com",
+      "mobile_no": "9991110005"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BSc in Physics, Oxford",
+        "cgpa": 9.8
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Cosmology, Cambridge",
+        "cgpa": 9.9
+      },
+      "doctorate": "PhD in Cosmology"
+    },
+    "skillsets": ["Cosmology", "General Relativity", "Quantum Gravity"],
+    "awards": ["Presidential Medal of Freedom", "Copley Medal"],
+    "licenses_and_certifications": ["Academic Fellowships"],
+    "experience": [
+      "Professor, University of Cambridge",
+      "Director, Centre for Theoretical Cosmology"
+    ],
+    "publications": [
+      {
+        "title": "Black Hole Explosions?",
+        "url": "https://www.nature.com/articles/248030a0"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg"
+    }
+  },
+
+  {
+    "id": 6,
+    "name": "Richard Feynman",
+    "bio": "Nobel-winning physicist known for quantum electrodynamics.",
+    "contact": {
+      "email": "richard.feynman@researchmail.com",
+      "mobile_no": "9991110006"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BS in Physics, MIT",
+        "cgpa": 9.7
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Physics, Princeton",
+        "cgpa": 9.8
+      },
+      "doctorate": "PhD in Physics"
+    },
+    "skillsets": ["Quantum Electrodynamics", "Particle Physics"],
+    "awards": ["Nobel Prize in Physics"],
+    "licenses_and_certifications": ["Advanced Research Certifications"],
+    "experience": [
+      "Professor, Caltech",
+      "Researcher, Los Alamos Laboratory"
+    ],
+    "publications": [
+      {
+        "title": "The Feynman Lectures on Physics",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Richard_Feynman_Nobel.jpg"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Alan Turing",
+    "bio": "Mathematician and codebreaker who founded computer science.",
+    "contact": {
+      "email": "alan.turing@researchmail.com",
+      "mobile_no": "9991110007"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Mathematics, Cambridge University",
+        "cgpa": 9.6
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Mathematics, Princeton",
+        "cgpa": 9.7
+      },
+      "doctorate": "PhD in Mathematical Logic"
+    },
+    "skillsets": ["Cryptography", "Computational Theory", "AI Foundations"],
+    "awards": ["Order of the British Empire", "Turing Centenary Medal"],
+    "licenses_and_certifications": ["Government Codebreaking Certification"],
+    "experience": [
+      "Codebreaker, Bletchley Park",
+      "Researcher, University of Manchester"
+    ],
+    "publications": [
+      {
+        "title": "On Computable Numbers",
+        "url": "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg"
+    }
+  },
+
+  {
+    "id": 8,
+    "name": "Ada Lovelace",
+    "bio": "Mathematician regarded as the first computer programmer.",
+    "contact": {
+      "email": "ada.lovelace@researchmail.com",
+      "mobile_no": "9991110008"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Advanced Mathematics (Private Tutoring)",
+        "cgpa": 9.2
+      },
+      "postgraduate": {
+        "bsc_degree": "Algorithmic Research",
+        "cgpa": 9.4
+      },
+      "doctorate": "Honorary Doctorate in Computing"
+    },
+    "skillsets": ["Algorithm Design", "Computational Logic"],
+    "awards": ["Computer History Museum Fellow Award"],
+    "licenses_and_certifications": ["Mathematical Research Certification"],
+    "experience": [
+      "Analytical Engine Analyst",
+      "Collaborator with Charles Babbage"
+    ],
+    "publications": [
+      {
+        "title": "Notes on the Analytical Engine",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_portrait.jpg"
+    }
+  },
+
+  {
+    "id": 9,
+    "name": "Rosalind Franklin",
+    "bio": "Chemist and X-ray crystallographer who enabled the discovery of DNA.",
+    "contact": {
+      "email": "rosalind.franklin@researchmail.com",
+      "mobile_no": "9991110009"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Natural Sciences, Cambridge",
+        "cgpa": 9.4
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Physical Chemistry",
+        "cgpa": 9.6
+      },
+      "doctorate": "PhD in Chemistry"
+    },
+    "skillsets": ["Crystallography", "Molecular Biology"],
+    "awards": ["Louisa Gross Horwitz Prize"],
+    "licenses_and_certifications": ["Advanced Research Certification"],
+    "experience": [
+      "Researcher, King's College London",
+      "Research Scientist, Birkbeck College"
+    ],
+    "publications": [
+      {
+        "title": "Structure of DNA",
+        "url": "https://www.nature.com/articles/171740a0"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Rosalind_Franklin.jpg"
+    }
+  },
+
+  {
+    "id": 10,
+    "name": "Carl Sagan",
+    "bio": "Astrophysicist and science communicator.",
+    "contact": {
+      "email": "carl.sagan@researchmail.com",
+      "mobile_no": "9991110010"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BA in Physics, University of Chicago",
+        "cgpa": 9.3
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Astronomy, University of Chicago",
+        "cgpa": 9.5
+      },
+      "doctorate": "PhD in Astronomy"
+    },
+    "skillsets": ["Astronomy", "Astrobiology", "Planetary Science"],
+    "awards": ["NASA Distinguished Public Service Medal"],
+    "licenses_and_certifications": ["Astrobiology Research Certification"],
+    "experience": [
+      "Professor, Cornell University",
+      "Director, Laboratory for Planetary Studies"
+    ],
+    "publications": [
+      {
+        "title": "The Cosmic Connection",
+        "url": "https://archive.org/details/cosmicconnection00saga"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Carl_Sagan_Planetary_Society.jpg"
+    }
+  },
+
+  {
+    "id": 11,
+    "name": "Katherine Johnson",
+    "bio": "NASA mathematician whose calculations enabled the Mercury and Apollo missions.",
+    "contact": {
+      "email": "katherine.johnson@researchmail.com",
+      "mobile_no": "9991110011"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BSc in Mathematics, West Virginia State",
+        "cgpa": 9.7
+      },
+      "postgraduate": {
+        "bsc_degree": "Research Fellowship in Mathematics",
+        "cgpa": 9.2
+      },
+      "doctorate": "Honorary Doctorates"
+    },
+    "skillsets": ["Applied Mathematics", "Orbital Mechanics"],
+    "awards": ["Presidential Medal of Freedom"],
+    "licenses_and_certifications": ["NASA Research Certification"],
+    "experience": [
+      "Research Mathematician, NASA",
+      "Trajectory Analyst, Mercury & Apollo Programs"
+    ],
+    "publications": [],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Katherine_Johnson_%28cropped%29.jpg"
+    }
+  },
+
+  {
+    "id": 12,
+    "name": "Jane Goodall",
+    "bio": "Primatologist renowned for chimpanzee behavior research.",
+    "contact": {
+      "email": "jane.goodall@researchmail.com",
+      "mobile_no": "9991110012"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Biology Research Studies",
+        "cgpa": 8.9
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Ethology, Cambridge",
+        "cgpa": 9.3
+      },
+      "doctorate": "PhD in Ethology"
+    },
+    "skillsets": ["Primatology", "Ethology"],
+    "awards": ["Kyoto Prize"],
+    "licenses_and_certifications": ["Environmental Research Certification"],
+    "experience": [
+      "Field Researcher, Gombe Stream National Park",
+      "Founder, Jane Goodall Institute"
+    ],
+    "publications": [
+      {
+        "title": "Behavior of Free-Living Chimpanzees",
+        "url": "https://www.janegoodall.org"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Jane_Goodall_GM.jpg"
+    }
+  },
+
+  {
+    "id": 13,
+    "name": "Tim Berners-Lee",
+    "bio": "Inventor of the World Wide Web and pioneer of internet standards.",
+    "contact": {
+      "email": "tim.bernerslee@researchmail.com",
+      "mobile_no": "9991110013"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BA in Physics, Oxford",
+        "cgpa": 9.3
+      },
+      "postgraduate": {
+        "bsc_degree": "Research at CERN",
+        "cgpa": 9.4
+      },
+      "doctorate": "Honorary Doctorates"
+    },
+    "skillsets": ["Web Architecture", "Internet Standards", "Open Data"],
+    "awards": ["Turing Award", "Queen Elizabeth Prize for Engineering"],
+    "licenses_and_certifications": ["Internet Standards Certification"],
+    "experience": [
+      "Engineer, CERN",
+      "Director, W3C"
+    ],
+    "publications": [
+      {
+        "title": "Information Management: A Proposal",
+        "url": "https://www.w3.org/History/1989/proposal.html"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "https://github.com/timbl",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tim_Berners-Lee_CP_2.jpg"
+    }
+  },
+
+  {
+    "id": 14,
+    "name": "Neil deGrasse Tyson",
+    "bio": "Astrophysicist and prominent science communicator.",
+    "contact": {
+      "email": "neil.tyson@researchmail.com",
+      "mobile_no": "9991110014"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BA in Physics, Harvard",
+        "cgpa": 9.1
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Astrophysics, Columbia",
+        "cgpa": 9.5
+      },
+      "doctorate": "PhD in Astrophysics"
+    },
+    "skillsets": ["Astrophysics", "Cosmic Evolution"],
+    "awards": ["NASA Distinguished Public Service Medal"],
+    "licenses_and_certifications": ["Astrophysics Research Certification"],
+    "experience": [
+      "Director, Hayden Planetarium",
+      "Research Associate, Princeton"
+    ],
+    "publications": [],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Neil_deGrasse_Tyson_in_June_2017.jpg"
+    }
+  },
+
+  {
+    "id": 15,
+    "name": "Srinivasa Ramanujan",
+    "bio": "Self-taught mathematical genius specializing in number theory.",
+    "contact": {
+      "email": "srinivasa.ramanujan@researchmail.com",
+      "mobile_no": "9991110015"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Mathematics (Independent Study)",
+        "cgpa": 9.6
+      },
+      "postgraduate": {
+        "bsc_degree": "Research Fellowship at Cambridge",
+        "cgpa": 9.4
+      },
+      "doctorate": "Honorary Doctorate"
+    },
+    "skillsets": ["Number Theory", "Infinite Series"],
+    "awards": ["Fellow of the Royal Society"],
+    "licenses_and_certifications": ["Mathematical Research Certificate"],
+    "experience": [
+      "Research Fellow, Cambridge University"
+    ],
+    "publications": [
+      {
+        "title": "Ramanujan Notebooks",
+        "url": "https://www.springer.com/series/437"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Srinivasa_Ramanujan_-_OPC_-_Cropped.jpg"
+    }
+  },
+
+  {
+    "id": 16,
+    "name": "Elon Musk",
+    "bio": "Engineer and innovator behind SpaceX and Tesla.",
+    "contact": {
+      "email": "elon.musk@researchmail.com",
+      "mobile_no": "9991110016"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Physics & Economics, UPenn",
+        "cgpa": 8.9
+      },
+      "postgraduate": {
+        "bsc_degree": "Entrepreneurial Engineering Research",
+        "cgpa": 9.0
+      },
+      "doctorate": "Honorary Doctorates"
+    },
+    "skillsets": ["Rocket Engineering", "Energy Systems", "Manufacturing"],
+    "awards": ["Royal Aeronautical Society Gold Medal"],
+    "licenses_and_certifications": ["Engineering Innovation Certification"],
+    "experience": [
+      "CEO, Tesla",
+      "CEO, SpaceX"
+    ],
+    "publications": [],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society_%28crop2%29.jpg"
+    }
+  },
+
+  {
+    "id": 17,
+    "name": "Andrew Ng",
+    "bio": "AI researcher and founder of DeepLearning.AI.",
+    "contact": {
+      "email": "andrew.ng@researchmail.com",
+      "mobile_no": "9991110017"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BS in Computer Science, Carnegie Mellon",
+        "cgpa": 9.4
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Computer Science, UC Berkeley",
+        "cgpa": 9.7
+      },
+      "doctorate": "PhD in Computer Science"
+    },
+    "skillsets": ["Machine Learning", "Deep Learning", "AI Systems"],
+    "awards": ["TIME 100 Most Influential People"],
+    "licenses_and_certifications": ["Certified AI Instructor"],
+    "experience": [
+      "Founder, DeepLearning.AI",
+      "Co-founder, Coursera",
+      "Professor, Stanford University"
+    ],
+    "publications": [
+      {
+        "title": "Sparse Autoencoder",
+        "url": "https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf"
+      }
+    ],
+    "links": {
+      "linkedin": "https://linkedin.com/in/andrewyng",
+      "github": "https://github.com/andrewng",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg"
+    }
+  },
+
+  {
+    "id": 18,
+    "name": "Jennifer Doudna",
+    "bio": "Biochemist and co-inventor of CRISPR gene editing.",
+    "contact": {
+      "email": "jennifer.doudna@researchmail.com",
+      "mobile_no": "9991110018"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BA in Chemistry, Pomona College",
+        "cgpa": 9.2
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Biochemistry, Harvard University",
+        "cgpa": 9.6
+      },
+      "doctorate": "PhD in Biochemistry"
+    },
+    "skillsets": ["Genome Editing", "Biochemistry", "Molecular Biology"],
+    "awards": ["Nobel Prize in Chemistry"],
+    "licenses_and_certifications": ["Molecular Biology Research Certification"],
+    "experience": [
+      "Professor, UC Berkeley",
+      "Investigator, HHMI"
+    ],
+    "publications": [
+      {
+        "title": "CRISPR–Cas9 Genome Editing",
+        "url": "https://www.science.org/doi/10.1126/science.1258096"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jennifer_Doudna_2017.jpg"
+    }
+  },
+
+  {
+    "id": 19,
+    "name": "Lisa Randall",
+    "bio": "Theoretical physicist known for brane-world and dark matter models.",
+    "contact": {
+      "email": "lisa.randall@researchmail.com",
+      "mobile_no": "9991110019"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "BA in Physics, Harvard",
+        "cgpa": 9.3
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD in Theoretical Physics, Harvard",
+        "cgpa": 9.6
+      },
+      "doctorate": "PhD in Theoretical Physics"
+    },
+    "skillsets": ["Particle Physics", "Cosmology"],
+    "awards": ["Lilienthal Prize", "Andrew Gemant Award"],
+    "licenses_and_certifications": ["Advanced Theoretical Physics Certification"],
+    "experience": [
+      "Professor, MIT",
+      "Professor, Harvard University"
+    ],
+    "publications": [
+      {
+        "title": "Warped Passages",
+        "url": "https://press.princeton.edu/books/paperback/9780060531096/warped-passages"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lisa_Randall_in_2019.jpg"
+    }
+  },
+
+  {
+    "id": 20,
+    "name": "Niels Bohr",
+    "bio": "Developer of the Bohr atomic model and pioneer of quantum mechanics.",
+    "contact": {
+      "email": "niels.bohr@researchmail.com",
+      "mobile_no": "9991110020"
+    },
+    "education": {
+      "undergraduate": {
+        "bsc_degree": "Physics, University of Copenhagen",
+        "cgpa": 9.5
+      },
+      "postgraduate": {
+        "bsc_degree": "PhD Research in Physics",
+        "cgpa": 9.7
+      },
+      "doctorate": "PhD in Physics"
+    },
+    "skillsets": ["Quantum Mechanics", "Atomic Physics"],
+    "awards": ["Nobel Prize in Physics"],
+    "licenses_and_certifications": ["Atomic Physics Research Certification"],
+    "experience": [
+      "Professor, University of Copenhagen",
+      "Director, Institute for Theoretical Physics"
+    ],
+    "publications": [
+      {
+        "title": "On the Constitution of Atoms",
+        "url": "https://www.nobelprize.org/uploads/2018/06/bohr-lecture.pdf"
+      }
+    ],
+    "links": {
+      "linkedin": "#",
+      "github": "#",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg"
+    }
+  }
+]
