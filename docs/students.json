@@ -576,39 +576,7 @@
     }
   },
 
-  {
-    "id": 16,
-    "name": "Elon Musk",
-    "bio": "Engineer and innovator behind SpaceX and Tesla.",
-    "contact": {
-      "email": "elon.musk@researchmail.com",
-      "mobile_no": "9991110016"
-    },
-    "education": {
-      "undergraduate": {
-        "bsc_degree": "Physics & Economics, UPenn",
-        "cgpa": 8.9
-      },
-      "postgraduate": {
-        "bsc_degree": "Entrepreneurial Engineering Research",
-        "cgpa": 9.0
-      },
-      "doctorate": "Honorary Doctorates"
-    },
-    "skillsets": ["Rocket Engineering", "Energy Systems", "Manufacturing"],
-    "awards": ["Royal Aeronautical Society Gold Medal"],
-    "licenses_and_certifications": ["Engineering Innovation Certification"],
-    "experience": [
-      "CEO, Tesla",
-      "CEO, SpaceX"
-    ],
-    "publications": [],
-    "links": {
-      "linkedin": "#",
-      "github": "#",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society_%28crop2%29.jpg"
-    }
-  },
+  
 
   {
     "id": 17,
